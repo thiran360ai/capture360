@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/capture360/static/css/main.4448a95f.css",
+    "main.js": "/capture360/static/js/main.6035ea75.js",
+    "static/js/425.bdd70d44.chunk.js": "/capture360/static/js/425.bdd70d44.chunk.js",
+    "static/media/b2.jfif": "/capture360/static/media/b2.81badd50b5427f5a580f.jfif",
+    "index.html": "/capture360/index.html",
+    "main.4448a95f.css.map": "/capture360/static/css/main.4448a95f.css.map",
+    "main.6035ea75.js.map": "/capture360/static/js/main.6035ea75.js.map",
+    "425.bdd70d44.chunk.js.map": "/capture360/static/js/425.bdd70d44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4448a95f.css",
+    "static/js/main.6035ea75.js"
+  ]
+}
